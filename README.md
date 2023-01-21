@@ -10,9 +10,8 @@ There is an Exam guide which is available on the official AWS website. A basic u
 <li>Technology</li>
 <li>Billing and Pricing</li>
 </ul>
-<br>
-Once you have understood what the topics in brief are its time to start finding resources, which takes us to step 2.
 
+Once you have understood what the topics in brief are its time to start finding resources, which takes us to step 2.
 <h2>Step 2 : Resources 📚</h2>
 You can find a lot of youtube videos about the cloud practitioner exam, but i wouldnt suggest them personally. Instead what I found very useful was a Udemy course by a brilliant instructor called Stephane Maarek. His videos are clear and precise and he clearly explains all the important and underlying concepts really well. <br>
 The link to his Udemy Course is here :point_right: https://www.udemy.com/course/aws-certified-cloud-practitioner-new/. <br>  
